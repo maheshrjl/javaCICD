@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "MH" 
+MAINTAINER "ME" 
 COPY ./webapp.war /usr/local/tomcat/webapps
