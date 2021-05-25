@@ -2,7 +2,7 @@
 
 ##### Apache web server hosting the webapp is running at [http://65.0.95.227/:8090/webapp/](http://65.0.95.227/:8090/webapp/)
 
-Click [here](http://65.0.95.227/:8090/webapp/) to view WebApp
+Click [here](http://65.0.95.227:8090/webapp/) to view WebApp
 
 ### Components used
 
