@@ -1,8 +1,8 @@
 ### This is Java CI/CD example
 
-##### Apache web server hosting the webapp is running at [http://52.66.67.164:8090/webapp/](http://52.66.67.164:8090/webapp/)
+##### Apache web server hosting the webapp is running at [http://65.0.95.227/:8090/webapp/](http://65.0.95.227/:8090/webapp/)
 
-Click [here](http://52.66.67.164:8090/webapp/) to view WebApp
+Click [here](http://65.0.95.227/:8090/webapp/) to view WebApp
 
 ### Components used
 
